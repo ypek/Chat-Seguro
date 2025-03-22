@@ -127,13 +127,6 @@ python client.py
 ```
 
 
-### Explicação do README:
+### Atencao!!!:
 
-1. **Objetivo**: Apresenta de forma resumida o que foi feito no trabalho, que é criar um chat seguro.
-2. **Descrição do Trabalho**: Explica os requisitos do sistema, como confidencialidade, integridade, criptografia e autenticação.
-3. **Tecnologias e Ferramentas**: Detalha as tecnologias utilizadas, como Python e as bibliotecas `PyCryptodome` e `cryptography`.
-4. **Como Executar**: Explica os passos para rodar o sistema, como instalar dependências e gerar as chaves.
-5. **Testes e Conclusões**: Descreve os testes realizados para garantir que o chat funciona corretamente e de forma segura.
-6. **Critérios de Avaliação**: Explica como o trabalho será avaliado com base nos pontos mencionados.
-###
 ⚠️ **Obs:** O **Chat GPT** Foi utilizado nesse trabalho somente para Criar esse **README** E Comentar o codigo para ficar de Facil Entendimento!
